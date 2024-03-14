@@ -24,11 +24,17 @@ Mayoralven</a> 🤠</h1>
 - 📄 Know about my experiences <a href="https://mayoralven.com/proyectos/" target="blank">Resume</a>
 <br/>
 <h3 align="left" >Social Media</h3>
+
 <a href="https://mayoralven.com/" target="blank">🌐 Personal website </a>
+
 <a href="https://www.instagram.com/mayoralven_ux/" target="blank">📱 Instagram </a>
+
 <a href="https://www.tiktok.com/@mayoralven" target="blank">📱 Tik Tok </a>
+
 <a href="https://www.behance.net/mayoral_ven" target="blank">💻 Behance </a>
+
 <a href="https://www.linkedin.com/in/mayoralven/" target="blank">💻 Linkedin </a>
+
 <a href="https://dribbble.com/MayoralVen" target="blank">💻 Dribbble </a>
 
 
