@@ -13,7 +13,7 @@ Mayoralven</a> 🤠</h1>
 
 - 🤝 I’m available for freelancing.
 
-- 📝 I regularly write articles on [https://mayoralven.com/blog](https://mayoralven.com/Blog)
+- 📝 I regularly write articles on [https://mayoralven.com/blog](https://mayoralven.com/blog)
 
 - 📷 I regularly post videos on Social media
 
