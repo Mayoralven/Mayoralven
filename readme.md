@@ -24,12 +24,12 @@ Mayoralven</a> 🤠</h1>
 - 📄 Know about my experiences <a href="https://mayoralven.com/proyectos/" target="blank">Resume</a>
 <br/>
 <h3 align="left" >Social Media</h3>
-<p align="left"> <a href="https://mayoralven.com/" target="blank"><img src="https://mayoralven.com/images/mv-web-ico.png" /></a></p>
-<p align="left"> <a href="https://www.instagram.com/mayoralven_ux/" target="blank"><img src="https://mayoralven.com/images/mv-ig-ico.png" /></a></p>
-<p align="left"> <a href="https://www.tiktok.com/@mayoralven" target="blank"><img src="https://mayoralven.com/images/mv-tiktok-ico.png" /></a></p>
-<p align="left"> <a href="https://www.behance.net/mayoral_ven" target="blank"><img src="https://mayoralven.com/images/mv-be-ico.png" /></a></p>
-<p align="left"> <a href="https://www.linkedin.com/in/mayoralven/" target="blank"><img src="https://mayoralven.com/images/mv-li-ico.png" /></a></p>
-<h3>Projects</h3>
-<p align="left"> <a href="https://vitamin.mayoralven.com/" target="blank"><img src="https://mayoralven.com/images/mv-vitamin-ico.png" /></a>
-</p>
+<a href="https://mayoralven.com/" target="blank">🌐 Personal website </a>
+<a href="https://www.instagram.com/mayoralven_ux/" target="blank">📱 Instagram </a>
+<a href="https://www.tiktok.com/@mayoralven" target="blank">📱 Tik Tok </a>
+<a href="https://www.behance.net/mayoral_ven" target="blank">💻 Behance </a>
+<a href="https://www.linkedin.com/in/mayoralven/" target="blank">💻 Linkedin </a>
+<a href="https://dribbble.com/MayoralVen" target="blank">💻 Dribbble </a>
+
+
 <br><br>
