@@ -4,14 +4,12 @@ Mayoralven</a> 🤠</h1>
 <h2 align="center">An UX/UI & Web designer based from Venezuela 🇻🇪 / based on spain 🇸🇵</h2>
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" alt="GIF" src="https://mayoralven.com/images/git-repo-img.jpg">
-</a>
 
+- 🕴️ I’m currently working in <a href="https://www.chequemotiva.com/" target="blank">Chequemotiva S.L.</a>
 
-- 🕴️ I’m currently working in <a href="https://avirato.com/" target="blank">Avirato S.L.</a>
-
-- 🧭 I’m currently Working on Vitamin Bootstrap & Other projects
+- 💻 You can see my sideprojects: <a href="https://vitamin.mayoralven.com/" target="blank">Vitamin Bootstrap</a> & <a href="https://uimand.top/" target="blank">UImand</a>
+  
+- 🧭 I’m currently Working on EmviUI
 
 - 🤝 I’m available for freelancing.
 
@@ -21,9 +19,9 @@ Mayoralven</a> 🤠</h1>
 
 - 💬 Ask me about *UX/UI, Web, Brand Design**
 
-- 📫 Write me on **hola@mayoralven.com**
+- 📫 Write me on **info@mayoralven.com**
 
-- 📄 Know about my experiences <a href="https://mayoralven.com/private/mv-cv" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://mayoralven.com/proyectos/" target="blank">Resume</a>
 <br/>
 <h3 align="left" >Social Media</h3>
 <p align="left"> <a href="https://mayoralven.com/" target="blank"><img src="https://mayoralven.com/images/mv-web-ico.png" /></a></p>
