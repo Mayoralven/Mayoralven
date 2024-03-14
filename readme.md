@@ -5,9 +5,9 @@ Mayoralven</a> 🤠</h1>
 
 
 
-- 🕴️ I’m currently working in <a href="https://www.chequemotiva.com/" target="blank">Chequemotiva S.L.</a>
+- 🕴️ I’m currently working in <a href="https://www.chequemotiva.com/" target="_blank">Chequemotiva S.L.</a>
 
-- 💻 You can see my sideprojects: <a href="https://vitamin.mayoralven.com/" target="blank">Vitamin Bootstrap</a> & <a href="https://uimand.top/" target="blank">UImand</a>
+- 💻 You can see my sideprojects: <a href="https://vitamin.mayoralven.com/" target="_blank">Vitamin Bootstrap</a> & <a href="https://uimand.top/" target="_blank">UImand</a>
   
 - 🧭 I’m currently Working on EmviUI
 
@@ -21,21 +21,21 @@ Mayoralven</a> 🤠</h1>
 
 - 📫 Write me on **info@mayoralven.com**
 
-- 📄 Know about my experiences <a href="https://mayoralven.com/proyectos/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://mayoralven.com/proyectos/" target="_blank">Resume</a>
 <br/>
 <h3 align="left" >Social Media</h3>
 
-- 🌐 <a href="https://mayoralven.com/" target="blank">Personal website </a>
+- 🌐 <a href="https://mayoralven.com/" target="_blank">Personal website </a>
 
-- 📱 <a href="https://www.instagram.com/mayoralven_ux/" target="blank">Instagram </a>
+- 📱 <a href="https://www.instagram.com/mayoralven_ux/" target="_blank">Instagram </a>
 
-- 📱 <a href="https://www.tiktok.com/@mayoralven" target="blank">Tik Tok </a>
+- 📱 <a href="https://www.tiktok.com/@mayoralven" target="_blank">Tik Tok </a>
 
-- 💻 <a href="https://www.behance.net/mayoral_ven" target="blank">Behance </a>
+- 💻 <a href="https://www.behance.net/mayoral_ven" target="_blank">Behance </a>
 
-- 💻 <a href="https://www.linkedin.com/in/mayoralven/" target="blank">Linkedin </a>
+- 💻 <a href="https://www.linkedin.com/in/mayoralven/" target="_blank">Linkedin </a>
 
-- 💻 <a href="https://dribbble.com/MayoralVen" target="blank">Dribbble </a>
+- 💻 <a href="https://dribbble.com/MayoralVen" target="_blank">Dribbble </a>
 
 
 <br><br>
