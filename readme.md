@@ -7,7 +7,7 @@ Mayoralven</a> 🤠</h1>
 
 - 🕴️ I’m currently working in <a href="https://www.chequemotiva.com/" target="_blank">Chequemotiva S.L.</a>
 
-- 💻 You can see my sideprojects: <a href="https://emviui.com/" target="_blank" rel="dofollow" >EmviUI</a>,  <a href="https://vitamin.mayoralven.com/" target="_blank">Vitamin Bootstrap</a> & <a href="https://uimand.top/" target="_blank">UImand</a>
+- 💻 You can see my sideprojects: <a href="https://emviui.com/" target="_blank" >EmviUI</a>,  <a href="https://vitamin.mayoralven.com/" target="_blank">Vitamin Bootstrap</a> & <a href="https://uimand.top/" target="_blank">UImand</a>
   
 - 🧭 I’m currently Working on EmviUI
 
